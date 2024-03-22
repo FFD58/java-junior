@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71beb78b-434c-4d81-8df8-537673897fe3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -45,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/Inheritance"
+    "last_opened_file_path": "V:/JavaProjects/JavaJunior/src/main"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,13 +55,14 @@
       <recent name="ru.fafurin.hw.lesson1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\JavaJunior\src\main" />
       <recent name="V:\JavaProjects\JavaJunior" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ru.fafurin.hw.lesson2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestRunnerDemo">
+  <component name="RunManager" selected="Application.ru.fafurin.hw.lesson3.Main">
     <configuration name="Asserter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.fafurin.hw.lesson2.Asserter" />
       <module name="JavaJunior" />
@@ -88,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.fafurin.lesson1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.hw.lesson3.Main" />
       <module name="JavaJunior" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.fafurin.lesson1.*" />
+          <option name="PATTERN" value="ru.fafurin.hw.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.fafurin.hw.lesson3.Main" />
         <item itemvalue="Application.TestRunnerDemo" />
         <item itemvalue="Application.Asserter" />
         <item itemvalue="Application.TestRunner" />
         <item itemvalue="Application.Homework" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
