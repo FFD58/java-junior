@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71beb78b-434c-4d81-8df8-537673897fe3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,7 +45,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/JavaJunior/src/main"
+    "last_opened_file_path": "V:/JavaProjects/JavaJunior/src/main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,7 +64,7 @@
       <recent name="ru.fafurin.hw.lesson2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.fafurin.hw.lesson3.Main">
+  <component name="RunManager" selected="Application.ru.fafurin.hw.lesson4.Main">
     <configuration name="Asserter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.fafurin.hw.lesson2.Asserter" />
       <module name="JavaJunior" />
@@ -82,19 +84,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.fafurin.hw.lesson1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.fafurin.hw.lesson3.Main" />
-      <module name="JavaJunior" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.fafurin.hw.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,9 +117,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.fafurin.hw.lesson4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.fafurin.hw.lesson4.Main" />
+      <module name="JavaJunior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.fafurin.hw.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.fafurin.hw.lesson3.Main" />
+        <item itemvalue="Application.ru.fafurin.hw.lesson4.Main" />
         <item itemvalue="Application.TestRunnerDemo" />
         <item itemvalue="Application.Asserter" />
         <item itemvalue="Application.TestRunner" />
